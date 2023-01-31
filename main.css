@@ -1,0 +1,15 @@
+a:hover .st3, #target a:active .st3,
+a:hover .st4, #target a:active .st4 {
+  fill: blue;
+  opacity: 0.5;
+}
+
+.st3 {
+  fill: green;
+  opacity: 0.5;
+}
+
+.st4 {
+  fill: #333333;
+  opacity: 0.5;
+}
